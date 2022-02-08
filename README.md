@@ -12,12 +12,6 @@ These bots are all cloned ( meaning all the same ) but with different prefixes.
 
 Bot Prefixes: HyunSuk: `.` | Jeongwoo: `+` | Eric sohn: `%%`
 
-### Our Bots Invite links
-
-* [**hyunsuk**](https://bit.ly/hyunsukbot)
-* [**jeongwoo**](https://bit.ly/jeongwoobot)
-* [**eric sohn**](https://bit.ly/ericsohnbot)
-
 ### Introduction
 
 **KBot** is an advanced **Multi Management** and **Utility** system bot, allowing users to effortlessly create embeds, play with fun commands, ticket system, and moderation. Users can create advanced embeds and set logs with moderation, & more. Additionally, users can assign roles to be given out when setting up the partnership/affiliates system.

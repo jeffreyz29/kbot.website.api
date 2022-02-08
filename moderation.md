@@ -5,10 +5,7 @@ description: Configuration for moderation
 # Moderation
 
 {% hint style="info" %}
-**Tip:** The default prefix for **kbots** is:\
-HyunSuk's:`.`\
-Jeongwoo's:`+`\
-Eric:`%%`
+**Tip:** The default prefix for the bot is:`.`
 {% endhint %}
 
 **General**

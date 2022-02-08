@@ -5,10 +5,7 @@ description: Configuration for utilities
 # Miscellaneous
 
 {% hint style="info" %}
-**Tip:** The default prefix for the **kbots** is:\
-Hyunsuk's:`.`\
-Jeongwoo's:`+` \
-Eric:`%%`
+**Tip:** The default prefix for the bot is:`.`
 {% endhint %}
 
 ### General
@@ -17,14 +14,14 @@ Eric:`%%`
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `help \| help [command name]` | Display the bots commands or information on a specific command.                                                                                                                                                                                                                                                                                                              |
 | `inviteinfo [code]`           | Display information on a user's invites, messages, who they were invited by, and who they last invited                                                                                                                                                                                                                                                                       |
-| `links`                       | Display links to invite the **kbots**                                                                                                                                                                                                                                                                                                                                        |
-| `stats`                       | Display **kbots** stats                                                                                                                                                                                                                                                                                                                                                      |
-| `ping`                        | Check  **kbots** ping                                                                                                                                                                                                                                                                                                                                                        |
-| `av`                          | <p>Display's a users avatar</p><p>ex: .<code>av</code> | .<code>av @somebody</code> | .<code>av 801623478372925442</code></p>                                                                                                                                                                                                                                                |
+| `links`                       | Display links to invite the **juyeon**                                                                                                                                                                                                                                                                                                                                       |
+| `stats`                       | Display **juyeon** stats                                                                                                                                                                                                                                                                                                                                                     |
+| `ping`                        | Check  **juyeon** ping                                                                                                                                                                                                                                                                                                                                                       |
+| `av`                          | <p>Display's a users avatar</p><p>ex: <code>av</code> | <code>av @somebody</code> | <code>av 801623478372925442</code></p>                                                                                                                                                                                                                                                   |
 | `members \| mb`               | Shows the amount of members in a specific guild                                                                                                                                                                                                                                                                                                                              |
 | `serverinfo`                  | Display's the server information about the guild.                                                                                                                                                                                                                                                                                                                            |
 | `whois`                       | <p>Display's the mentioned user's information</p><p>e.g. <code>whois @someguy, whois [ user ID ], whois jeffrey#9454</code></p>                                                                                                                                                                                                                                              |
-| `Servers`                     | Display's the **kbots** Guild count                                                                                                                                                                                                                                                                                                                                          |
+| `Servers`                     | Display's the juyeon Guild count                                                                                                                                                                                                                                                                                                                                             |
 | `youtube search`              | searches anything based of of youtube                                                                                                                                                                                                                                                                                                                                        |
 | `google search`               | searches anything based of of google                                                                                                                                                                                                                                                                                                                                         |
 | `enlarge`                     | enlarges a custom non/animated emoji from a current guild the bot is in. it can not enlarge regular emojis                                                                                                                                                                                                                                                                   |
@@ -39,9 +36,9 @@ Eric:`%%`
 
 {% hint style="info" %}
 **Tip:** If you need help with a specific command you can use:\
-`[prefix]help topic`\
-`[prefix]help(command name from the list)`\
-`Ex: [prefix]help moderation or [prefix]help currency`
+`.help topic`\
+`.help(command name from the list)`\
+`Ex:.help moderation or [prefix]help currency`
 {% endhint %}
 
 **AFK**

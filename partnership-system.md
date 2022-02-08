@@ -5,10 +5,7 @@ description: Configuration for Partnerships
 # Partnership System
 
 {% hint style="info" %}
-**Tip:** The default prefix for the **kbots** is:\
-Hyunsuk's:`.`\
-Jeongwoo's:`+` \
-Eric:`%%`
+**Tip:** The default prefix for the bot is:`.`
 {% endhint %}
 
 **Partnerships**
